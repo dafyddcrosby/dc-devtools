@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.homepage = "https://dafyddcrosby.com"
   spec.license = "MIT"
   spec.metadata["rubygems_mfa_required"] = "true"
-  spec.required_ruby_version = ">= 2.6"
+  spec.required_ruby_version = ">= 2.5"
 
   spec.add_dependency "dc-rubocop", ">= 0.0.3"
   spec.add_dependency "guard", "~> 2.18"
