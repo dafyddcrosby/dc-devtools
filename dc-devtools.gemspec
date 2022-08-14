@@ -15,9 +15,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "dc-minitest", "~> 0.0"
   spec.add_dependency "dc-rubocop", "~> 0.0"
-  spec.add_dependency "guard", "~> 2.18"
-  spec.add_dependency "guard-rake", "~> 1.0"
-  spec.add_dependency "rake", "~> 13.0"
-  spec.add_dependency "rubocop", "~> 1.30"
-  spec.add_dependency "rubocop-rake", "~> 0.6"
+  spec.add_dependency "dc-guard", "~> 0.0"
+  spec.add_dependency "dc-rake", "~> 0.0"
 end
