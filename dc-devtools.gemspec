@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.metadata["rubygems_mfa_required"] = "true"
   spec.required_ruby_version = ">= 3.0"
 
-  spec.add_dependency "dc-guard", "~> 0.0.1"
+  spec.add_dependency "dc-guard", "~> 0.0.2"
   spec.add_dependency "dc-minitest", "~> 0.3.4"
   spec.add_dependency "dc-rake", "~> 0.1.0"
   spec.add_dependency "dc-rubocop", "~> 0.0.5"
